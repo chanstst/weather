@@ -1,2 +1,2 @@
 # weather
-Weather forecast using LSTM vs Lasso and Light GBM
+Weather forecast using LSTM, Light GBM, and Lasso
