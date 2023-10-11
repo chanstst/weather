@@ -1,4 +1,4 @@
-# Weather forecast using LSTM vs Lasso and Light GBM
+# Weather forecast using LSTM, Light GBM and Lasso
 
 Prediction analysis has been widely used in real-life business applications. Generalized Linear Models (GLMs) are easy to interpret and deploy, and Gradient Boosting Machines (GBMs) are able to capture the non-linearity among features to generate better results. Given a fair proportion of datasets are in time-series, with a natural dependence on the sequence, it is worth exploring whether Recurrent Neural Networks (RNNs) such as Long Short Term Memory (LSTM) may show any considerable margins of outperformance.
 
